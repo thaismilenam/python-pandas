@@ -1,5 +1,5 @@
 # Python Pandas: tratando e analisando dados
-Repositório destinado ao curso de Python Pandas da Plataforma Allura.
+Repositório destinado ao curso de Python Pandas da Plataforma Alura.
 
 ### 01 - Conhecendo o Júpiter
     Essa aula ensinou a instalar o Anaconda e a utilizar o Júpiter Lab.
